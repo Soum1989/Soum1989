@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Product Management
 - 💞️ I’m looking to collaborate on projects on Jira following Scrum Methodology
 - 📫 How to reach me @https://github.com/Soum1989
-- 😄 Pronouns: He/she/they
+- 😄 Pronouns: He/they
 - ⚡ Fun fact: I am a multitude personality
 
 <!---
